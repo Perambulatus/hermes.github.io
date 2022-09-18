@@ -39,7 +39,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/seamless-lemon-pattern-tropic-fruits-leaves-flowers-background-hand-drawn-illustration-watercolor-style-summer-vector-146173686.jpg
+# title-img: /assets/img/seamless-lemon-pattern-tropic-fruits-leaves-flowers-background-hand-drawn-illustration-watercolor-style-summer-vector-146173686.jpg
 
 
 #####################################
@@ -73,7 +73,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
